@@ -1,6 +1,6 @@
 function breakingRecords(scores) {
     // Write your code here
-    let maxScore = 0;
+    let maxScore = -1;
     let minScore = Infinity;
     let maxCount = -1;
     let minCount = -1;
